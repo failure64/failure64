@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
- 🔭 I’m currently working on [BookingMania](https://github.com/failure64/BookingMania)
+ 🔭 I’m currently working on a [Blog Application Backend using SpringBoot]
 
- 🌱 I’m currently learning **Django and Spring Boot**
+ 🌱 I’m currently learning **Spring Boot**
 
  📫 You can reach me at **swastikmiddha@gmail.com**
 
